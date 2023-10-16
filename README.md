@@ -1,7 +1,7 @@
 # RTS
 My first RTS Project
 
-Which featers works bbut ned fix:
+Which featers works but ned fix:
 
 - camera contrll (move camera and zoom camera)
 - selecting units one or more(more than 30 bug not enought icons for more selected units.
